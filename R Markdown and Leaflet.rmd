@@ -1,7 +1,7 @@
 ---
 title: "Passenger Traffic on the Paris RATP Railway Network in 2015"
-author: "SAMARA RODRIGUES"
-date: "31th JULY 2018"
+author: "Paritosh Pal Singh"
+date: "1st October 2020"
 output:
   html_document: default
   pdf_document: default
